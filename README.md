@@ -1,7 +1,8 @@
 
 
 
-<img align="center" src="hello-cover.png">
+
+<p align="center"><img src="hello-cover.png" width="70%" alt="Start-Banner"/></p>
 
 <!-- Say Hello -->
 <h2 align="center">
