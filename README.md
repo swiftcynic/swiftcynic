@@ -1,7 +1,7 @@
 
 
 
-<img src="hello-cover.png">
+<img align="center" src="hello-cover.png">
 
 <!-- Say Hello -->
 <h2 align="center">
