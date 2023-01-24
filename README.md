@@ -56,14 +56,14 @@ Hello there, Dhruv Salot here!
 <!-- TechStack -->
 ```swift
 dhruv: [info:attr]  = [
-    askMeAbout: ["Artificial Intelligence", "Deep Learning", "Swift", "Python"],
-    technologies: [
-        iphoneDev: ["SwiftUI","UIKit"],
-        database: ["Firebase","CoreData"],
-        mlDev: ["PyTorch", "Tensorflow", "Spacy","CreateML", "CoreML"]
-        uiTools: ["Sketch", "Figma"]
+    askMeAbout   : ["Artificial Intelligence", "Deep Learning", "Swift", "Python"],
+    technologies : [
+        iphoneDev    : ["SwiftUI","UIKit"],
+        database     : ["Firebase","CoreData"],
+        mlDev        : ["PyTorch", "Tensorflow", "Spacy","CreateML", "CoreML"]
+        uiTools      : ["Sketch", "Figma"]
         appleOnlyMisc: ["MapKit", "ARKit"]
-        misc: ["Git", "Numpy", "Pandas", "Dask"]
+        misc         : ["Git", "Numpy", "Pandas", "Dask"]
     ],
     appArchitecture: ["Model-View-Controller", "Model-View-ViewModel"]
 ]
