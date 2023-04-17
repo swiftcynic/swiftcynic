@@ -60,7 +60,7 @@ dhruv: [info:attr]  = [
     technologies : [
         iphoneDev    : ["SwiftUI","UIKit"],
         database     : ["Firebase","CoreData"],
-        mlDev        : ["PyTorch", "Tensorflow", "Spacy","CreateML", "CoreML"]
+        mlDev        : ["PyTorch", "Tensorflow", "Spacy", "CreateML", "CoreML"]
         uiTools      : ["Sketch", "Figma"]
         appleOnlyMisc: ["MapKit", "ARKit"]
         misc         : ["Git", "Numpy", "Pandas", "Dask"]
