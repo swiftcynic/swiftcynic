@@ -11,7 +11,7 @@ Hello there, Dhruv Salot here!
 </h3>
 
 <p align="center">
-<code>Digital Craftsman (Developer/Builder/Designer)</code>
+<code>Digital Craftman (Developer/Builder/Designer)</code>
 </p>
 
 <!-- Typing SVG -->
