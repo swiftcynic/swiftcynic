@@ -10,13 +10,9 @@ Hello there, Dhruv Salot here!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-<code>(AI Developer/ML Engineer/Data Analyst/Designer)</code>
-</p>
-
 <!-- Typing SVG -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Menlo&pause=1000&color=06F720&background=000000&center=true&vCenter=true&width=435&lines=Machine+Learning+Developer;Data+Science+Engineer;2%2B+Years+Of+Development+Experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Menlo&pause=1000&color=06F720&background=000000&center=true&vCenter=true&width=435&lines=AI+Developer;Machine+Learning+Engineer;Data+Science+Engineer;2%2B+Years+Of+Development+Experience" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
