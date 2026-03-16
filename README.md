@@ -11,12 +11,12 @@ Hello there, Dhruv Salot here!
 </h3>
 
 <p align="center">
-<code>Digital Craftman (Developer/Builder/Designer)</code>
+<code>(Developer/Data Analyst/Designer)</code>
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Menlo&pause=1000&color=06F720&background=000000&center=true&vCenter=true&width=435&lines=iOS+App+Developer;Machine+Learning+Developer;Data+Science+Engineer;2%2B+Years+Of+Development+Experience" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Menlo&pause=1000&color=06F720&background=000000&center=true&vCenter=true&width=435&lines=Machine+Learning+Developer;Data+Science+Engineer;2%2B+Years+Of+Development+Experience" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
