@@ -11,7 +11,7 @@ Hello there, Dhruv Salot here!
 </h3>
 
 <p align="center">
-<code>(Developer/Data Analyst/Designer)</code>
+<code>(AI Developer/ML Engineer/Data Analyst/Designer)</code>
 </p>
 
 <!-- Typing SVG -->
